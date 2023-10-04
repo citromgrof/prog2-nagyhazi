@@ -1,0 +1,5 @@
+2500 Steak
+2000 Cheeseburger
+1500 Mac'n Cheese
+3000 Pizza
+2000 Spaghetti
